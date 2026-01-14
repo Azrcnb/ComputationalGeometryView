@@ -1,0 +1,3 @@
+D:/Visual Studio/Projects/ComputationalGeometryView/build/CMakeFiles/ComputationalGeometryView.dir
+D:/Visual Studio/Projects/ComputationalGeometryView/build/CMakeFiles/ALL_BUILD.dir
+D:/Visual Studio/Projects/ComputationalGeometryView/build/CMakeFiles/ZERO_CHECK.dir

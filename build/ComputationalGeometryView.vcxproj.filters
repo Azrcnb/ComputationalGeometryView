@@ -1,0 +1,165 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\Visual Studio\Projects\ComputationalGeometryView\src\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Visual Studio\Projects\ComputationalGeometryView\src\application.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Visual Studio\Projects\ComputationalGeometryView\src\renderer\GeometryRenderer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="D:\Visual Studio\Projects\ComputationalGeometryView\src\renderer\camera.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Visual Studio\Projects\ComputationalGeometryView\src\renderer\shader_m.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Visual Studio\Projects\ComputationalGeometryView\src\geometry\curves\CubicSpline.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Visual Studio\Projects\ComputationalGeometryView\src\geometry\surfaces\CubicBezierPatch.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Visual Studio\Projects\ComputationalGeometryView\src\application.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Visual Studio\Projects\ComputationalGeometryView\src\renderer\GeometryRenderer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Visual Studio\Projects\ComputationalGeometryView\src\testdata\curves\GenerateCubicSplineData.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Visual Studio\Projects\ComputationalGeometryView\src\testdata\surfaces\GenerateCubicBezierData.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Visual Studio\Projects\ComputationalGeometryView\src\geometry\curves\CardinalCurve.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Visual Studio\Projects\ComputationalGeometryView\src\testdata\curves\GenerateCardinalCurveData.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Visual Studio\Projects\ComputationalGeometryView\src\geometry\curves\CubicBezierCurve.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Visual Studio\Projects\ComputationalGeometryView\src\testdata\curves\GenerateBezierCurveData.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Visual Studio\Projects\ComputationalGeometryView\src\geometry\curves\CompositeBezierCurve.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Visual Studio\Projects\ComputationalGeometryView\src\testdata\curves\GenerateCompositeBezierCurveData.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Visual Studio\Projects\ComputationalGeometryView\src\geometry\surfaces\CompositeBezierSurface.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Visual Studio\Projects\ComputationalGeometryView\src\testdata\surfaces\GenerateCompositeBezierSurfaceData.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Visual Studio\Projects\ComputationalGeometryView\src\geometry\curves\RationalQuadraticBezierCurve.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Visual Studio\Projects\ComputationalGeometryView\src\testdata\curves\GenerateRationalBezierCurveData.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Visual Studio\Projects\ComputationalGeometryView\src\geometry\curves\DegreeElevatedRationalBezierCurve.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Visual Studio\Projects\ComputationalGeometryView\src\testdata\curves\GenerateDegreeElevatedRationalBezierCurveData.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Visual Studio\Projects\ComputationalGeometryView\src\geometry\surfaces\RationalBiquadraticBezierPatch.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Visual Studio\Projects\ComputationalGeometryView\src\testdata\surfaces\GenerateRationalBiquadraticBezierPatchData.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Visual Studio\Projects\ComputationalGeometryView\src\geometry\surfaces\RationalBezierPatch2x1.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Visual Studio\Projects\ComputationalGeometryView\src\testdata\surfaces\GenerateRationalBezierPatch2x1Data.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Visual Studio\Projects\ComputationalGeometryView\src\geometry\curves\UniformBSplineCurve.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Visual Studio\Projects\ComputationalGeometryView\src\testdata\curves\GenerateUniformBSplineCurveData.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Visual Studio\Projects\ComputationalGeometryView\src\geometry\curves\QuasiUniformBSplineCurve.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Visual Studio\Projects\ComputationalGeometryView\src\testdata\curves\GenerateQuasiUniformBSplineCurveData.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Visual Studio\Projects\ComputationalGeometryView\src\geometry\curves\PiecewiseBezierCurve.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Visual Studio\Projects\ComputationalGeometryView\src\testdata\curves\GeneratePiecewiseBezierCurveData.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Visual Studio\Projects\ComputationalGeometryView\src\geometry\curves\NonUniformBSplineCurve.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Visual Studio\Projects\ComputationalGeometryView\src\testdata\curves\GenerateNonUniformBSplineCurveData.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Visual Studio\Projects\ComputationalGeometryView\src\geometry\curves\BSplineKnotInserter.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Visual Studio\Projects\ComputationalGeometryView\src\testdata\curves\GenerateBSplineKnotInserterData.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Visual Studio\Projects\ComputationalGeometryView\src\geometry\surfaces\CubicUniformBSplinePatch.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Visual Studio\Projects\ComputationalGeometryView\src\testdata\surfaces\GenerateCubicUniformBSplinePatchData.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Visual Studio\Projects\ComputationalGeometryView\src\geometry\surfaces\NonUniformBSplineSurface.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Visual Studio\Projects\ComputationalGeometryView\src\testdata\surfaces\GenerateNonUniformBSplineSurfaceData.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Visual Studio\Projects\ComputationalGeometryView\src\geometry\curves\NURBSCurve.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Visual Studio\Projects\ComputationalGeometryView\src\testdata\curves\GenerateNURBSCurveData.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Visual Studio\Projects\ComputationalGeometryView\src\geometry\curves\NURBSCircleApproximator.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Visual Studio\Projects\ComputationalGeometryView\src\testdata\curves\GenerateNURBSCircleApproximatorData.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Visual Studio\Projects\ComputationalGeometryView\src\geometry\surfaces\NURBSSurface.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Visual Studio\Projects\ComputationalGeometryView\src\testdata\surfaces\GenerateNURBSSurfaceData.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Visual Studio\Projects\ComputationalGeometryView\src\geometry\surfaces\NURBSRevolvedSurface.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Visual Studio\Projects\ComputationalGeometryView\src\testdata\surfaces\GenerateNURBSRevolvedSurfaceData.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="D:\Visual Studio\Projects\ComputationalGeometryView\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{FA6980DF-3EEF-3883-8FF1-F5A93105E72C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{71C2AEB1-928C-3441-A872-0CD32C41F7D6}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

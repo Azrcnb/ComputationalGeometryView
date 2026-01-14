@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="D:\Visual Studio\Projects\ComputationalGeometryView\build\CMakeFiles\c72d7673b591aa3deaa48b0a462a7db3\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{342D68A6-256E-3AA3-B092-146FA0B1D950}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

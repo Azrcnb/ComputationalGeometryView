@@ -1,0 +1,32 @@
+﻿{
+  "version": 8,
+  "configurePresets": [
+    {
+      "name": "MSVC",
+      "displayName": "Visual Studio Build Tools 2022 Release - amd64",
+      "description": "Using compilers for Visual Studio 17 2022 (x64 architecture)",
+      "generator": "Visual Studio 17 2022",
+      "toolset": "host=x64",
+      "architecture": "x64",
+      "binaryDir": "${sourceDir}/build",
+      "installDir": "${sourceDir}/install",
+      "cmakeExecutable": "D:/CMake/bin/cmake.exe",
+      "toolchainFile": "D:/vcpkg-2025.12.12/scripts/buildsystems/vcpkg.cmake",
+      "cacheVariables": {
+        "CMAKE_C_COMPILER": "cl.exe",
+        "CMAKE_CXX_COMPILER": "cl.exe"
+      },
+      "environment": {
+        "VCPKG_ROOT": "D:/vcpkg-2025.12.12"
+      }
+    }
+  ],
+  "buildPresets": [
+    {
+      "name": "MSVC-debug",
+      "displayName": "Visual Studio Build Tools 2019 - Debug",
+      "configurePreset": "MSVC",
+      "configuration": "Debug"
+    }
+  ]
+}
